@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = 'cqu_auth',
+    name = 'cquauth',
     version = '0.0.1',
     keywords='spider cqu oauth',
     description = ('重庆大学统一认证'),
