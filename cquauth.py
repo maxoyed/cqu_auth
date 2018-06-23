@@ -1,4 +1,4 @@
-def cquauth(username, password):
+def verify(username, password):
     import requests
     from lxml import etree
     s = requests.session()
