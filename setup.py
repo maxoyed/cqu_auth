@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'cquauth',
-    version = '0.0.1',
+    version = '0.0.3',
     keywords='spider cqu oauth',
     description = ('重庆大学统一认证'),
     long_description=open('README.rst').read(),
